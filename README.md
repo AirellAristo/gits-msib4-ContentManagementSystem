@@ -92,7 +92,7 @@
 <hr>
 <h4>Alur Menambahkan Produk ke Keranjang:</h4>
 <ol>
-    <l1>Klik tombol "Beli Produk" pada </li>
+    <li>Klik tombol "Beli Produk"</li>
     <li>Silahkan atur berapa banyak yang ingin dibeli menggunakan arrow key yang tersedia pada box </li>
     <p>Ket: Total yang harus dibayar tidak dapet diganti secara manual, akan tetapi akan terupdate secara otomatis pada saat pergantian jumlah beli</p>
     <li>Klik tombol "Beli" untuk memasukkan produk ke kerajang</li>
